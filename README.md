@@ -10,7 +10,7 @@ short `title` of each entry is kept.
 
 Licence: **CC0-1.0**, as the OBDex data.
 
-- OBDex commit: `5e927da4941bca7a63838931126b12f481a4c428`
+- OBDex commit: `2bdebc8301ff0608b81a205f899d5d066e711071`
 - `dtc-generic-en.json`: 9533 codes
 - `dtc-generic-de.json`: 9533 codes
 
